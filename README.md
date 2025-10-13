@@ -1,4 +1,4 @@
-# 🍽️ Not-Swiggy – A CLI Based Food Ordering System
+# 🍽️ Not-Swiggy - A CLI Based Food Ordering System
 
 A simple command-line DBMS project built in Python for managing restaurant orders, users, and payments — all using MySQL as the backend.
 
@@ -60,10 +60,10 @@ A simple command-line DBMS project built in Python for managing restaurant order
 
 - **Python 3**
 - **MySQL**
-- **Rich** – for styled CLI interface  
-- **Cryptography (Fernet)** – for secure password & payment encryption  
-- **Humanize** – for readable delivery time display  
-- **pwinput** – for hidden password input  
+- **Rich** - for styled CLI interface  
+- **Cryptography (Fernet)** - for secure password & payment encryption  
+- **Humanize** - for readable delivery time display  
+- **pwinput** - for hidden password input  
 
 ---
 
@@ -71,7 +71,7 @@ A simple command-line DBMS project built in Python for managing restaurant order
 
 Because we were lazy.
 And honestly, the terminal is kind of beautiful when it works.
-Plus, we just wanted to focus on the database logic — the “DB” part of DBMS — and not fight with HTML and CSS.
+Plus, we just wanted to focus on the database logic - the “DB” part of DBMS - and not fight with HTML and CSS.
 
 ---
 
