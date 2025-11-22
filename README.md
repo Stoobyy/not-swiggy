@@ -1,10 +1,10 @@
-# 🍽️ Not-Swiggy - A CLI Based Food Ordering System
+# Not-Swiggy - A CLI Based Food Ordering System
 
 A simple command-line DBMS project built in Python for managing restaurant orders, users, and payments — all using MySQL as the backend.
 
 ---
 
-## 🧩 Features
+##  Features
 
 - User registration and login with encrypted passwords  
 - Restaurant listing and menu browsing  
@@ -15,7 +15,7 @@ A simple command-line DBMS project built in Python for managing restaurant order
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 │
@@ -29,7 +29,7 @@ A simple command-line DBMS project built in Python for managing restaurant order
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. **Run setup script**
    ```bash
@@ -56,7 +56,7 @@ A simple command-line DBMS project built in Python for managing restaurant order
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - **Python 3**
 - **MySQL**
@@ -67,7 +67,7 @@ A simple command-line DBMS project built in Python for managing restaurant order
 
 ---
 
-## 🤷 Why No Front End?
+##  Why No Front End?
 
 Because we were lazy.
 And honestly, the terminal is kind of beautiful when it works.
@@ -75,6 +75,6 @@ Plus, we just wanted to focus on the database logic - the “DB” part of DBMS 
 
 ---
 
-## 🧾 License
+##  License
 
 This project is open for educational and academic use.
